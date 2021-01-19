@@ -1,0 +1,3 @@
+[submodule "Unreal/Plugins/AirSim/LCA"]
+	path = Unreal/Plugins/AirSim/LCA
+	url = https://github.com/LeonardoSAF/LCA.git
