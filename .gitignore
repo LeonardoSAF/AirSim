@@ -384,3 +384,7 @@ build_docs/
 
 # api docs
 PythonClient/docs/_build
+Unreal/Environments/Blocks/Content/Downtown_West/
+Unreal/Environments/Blocks/Content/ProceduralNaturePack/
+Unreal/Environments/Plugins/AirSim/Content/VehicleAdv/SUV/SuvCarPawn.uasset
+Unreal/Environments/Plugins/AirSim/AirSim.uplugin

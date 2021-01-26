@@ -7,6 +7,9 @@ public class BlocksTarget : TargetRules
 {
 	public BlocksTarget(TargetInfo Target) : base(Target)
 	{
+		System.Console.WriteLine("bDebugBuildsActuallyUseDebugCRT " + bDebugBuildsActuallyUseDebugCRT);
+		this.bDebugBuildsActuallyUseDebugCRT = true;
+		System.Console.WriteLine("bDebugBuildsActuallyUseDebugCRT " + bDebugBuildsActuallyUseDebugCRT);
 		Type = TargetType.Game;
 		ExtraModuleNames.AddRange(new string[] { "Blocks" });
 
